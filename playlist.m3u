@@ -1,1 +1,10 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-name="BTV" group-title="Bangladesh",BTV
+STREAM_URL
+#EXTINF:-1 tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
+STREAM_URL
+#EXTINF:-1 tvg-name="Zee Bangla" group-title="India Bengali",Zee Bangla
+STREAM_URL
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="India Bengali",Star Jalsha
+STREAM_URL
