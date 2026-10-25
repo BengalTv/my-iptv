@@ -1903,140 +1903,14 @@ https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 88.Zee Bangla HD
 http://45.249.187.238:8081/hls/new8.m3u8
-#EXTINF:-1 92.Zee TV HD USA
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
-#EXTINF:-1 93.Zee TV HD Canada
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 95.Zee Cinema USA
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1 96.Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
-#EXTINF:-1 98.Zee Action
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1 100.Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 101.Zee Smile
-http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
-#EXTINF:-1 102.Zee Anmol Cinama
-https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
-#EXTINF:-1 104.Zee Cafe HD
-http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 106.Sony TV HD
-http://heela.ddns.net:2700/live/sonyindia/index.m3u8
-#EXTINF:-1 108.Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
-#EXTINF:-1 109.Sony SAB
-http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1 110.Sony SAB HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
-#EXTINF:-1 112.Star Jalsha HD
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1 120.Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
-#EXTINF:-1 ,126.Sony Yay
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
-#EXTINF:-1 ,127.Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 ,129.Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 ,130.Mr Bean Show
-http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
-#EXTINF:-1 ,131.Sonic
-https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 #EXTINF:-1 132.Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 132.Discovery HD
-http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
 #EXTINF:-1 135.National Geographic
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1 137.BBC Earth
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-#EXTINF:-1 138.Travel XP HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1 138.Travel Channel
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1 141.Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 142.Colors
-https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:-1 146.& Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:-1 ,154.Sony Ten 2 [1]
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 ,155.Star Sports 1 Hindi
-http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
-#EXTINF:-1 ,156.Star Sports Select 1 HD
-http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 ,157.Bein Sports Xtra HD
-https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:-1 ,158.Bein Sports Haber SD
-http://94.46.195.170:9000/bein-sports-haber/live.m3u8
-#EXTINF:-1 ,159.Sky Sports Cricket
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:-1 ,160.Sky Sports Football
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
-#EXTINF:-1 ,162.Ten Sports
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1 ,163.Geo Super
-http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,165.Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1 ,166.Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1 172.Dhoom Music
-https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
-#EXTINF:-1 178.Ary Musik
-https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
-#EXTINF:-1 183.Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 186.FOX Movies
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
-#EXTINF:-1 189.UTV Action
-http://45.249.187.238:8081/hls/tsl-7.m3u8
-#EXTINF:-1 192.Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 196.Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 198.Maha Movie
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 group-title="Pakistani",222.Kay 2
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1 group-title="Pakistani",223.Sahar Urdu
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Pakistani",224.Subrang TV
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 group-title="Pakistani",225.Tag TV 1
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani",226.Tag TV 2
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1 239.Jhanjar HD
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1 279.Wixlar
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 280.RU.TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 281.Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 282.MTA English
-http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 284.Series Zone
-https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
-#EXTINF:-1 286.Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 287.Baraza TV Greek Music Hits
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 288.The ShortFilms
-https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
-#EXTINF:-1 290.California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 301.Food Channel
-http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 302.Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 303.Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 304.Living Foodz
-http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 #EXTINF:-1 2.Ekattor HD [Extra]
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 #EXTINF:-1 5.News 24 HD [Extra]
@@ -2057,15 +1931,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 112.Star Jalsha HD [Extra]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 117.Star Gold HD [Extra]
-http://103.214.202.218:8081/live/stargold/chunks.m3u8
 #EXTINF:-1 118.Star Bharat [Extra]
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:-1 141.Colors Bangla HD [Extra]
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
-#EXTINF:-1 ,154.Sony Ten 2 [Extra]
-http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1 ,154.Sony Ten 3 [Extra]
-http://103.205.133.14/hls/ten3.m3u8
-#EXTINF:-1 ,154.Sony Ten 3 [Extra]
-http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
